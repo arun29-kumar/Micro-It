@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors Game (Python - Console Based)
+program:
 import random
 
 def rock_paper_scissors():
